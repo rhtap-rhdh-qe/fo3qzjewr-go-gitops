@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fo3qzjewr-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fo3qzjewr-go
